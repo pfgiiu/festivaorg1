@@ -1,0 +1,42 @@
+.dashboard-content {
+  margin-top: 20px;
+  text-align: center; /* Centraliza o texto */
+  font-family: 'Poppins', sans-serif; /* Usar uma fonte acolhedora */
+  padding: 20px; /* Adicionando espaçamento interno */
+}
+
+.dashboard-content h1 {
+  font-size: 48px; /* Tamanho do título */
+  color: #584160; /* Cor do título */
+  margin-bottom: 20px; /* Espaço abaixo do título */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3); /* Efeito de sombra no texto */
+}
+
+.dashboard-content p {
+  font-size: 22px; /* Aumentar o tamanho do texto */
+  color: #71667d; /* Cor do texto */
+  margin-bottom: 20px; /* Espaço abaixo dos parágrafos */
+  line-height: 1.6; /* Aumentar o espaçamento entre linhas */
+}
+
+.system-section {
+  background-color: #cbc9be; /* Cor de fundo mais quente */
+  border-radius: 15px; /* Bordas arredondadas mais pronunciadas */
+  padding: 30px; /* Aumentar o espaçamento interno */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Sombra mais intensa */
+  margin: 20px auto; /* Centraliza a seção com margem */
+  max-width: 800px; /* Limitar a largura da seção para ficar mais bonito em telas grandes */
+}
+
+.system-description h3 {
+  font-size: 24px; /* Tamanho do título da descrição */
+  color: #584160; /* Cor do título */
+  margin-bottom: 10px; /* Espaço abaixo do título */
+  text-align: left; /* Alinhamento à esquerda para uma aparência mais organizada */
+}
+
+.system-description p {
+  color: #2a2530; /* Cor do texto mais escura para melhor legibilidade */
+  font-size: 18px; /* Tamanho do texto */
+  line-height: 1.8; /* Aumentar o espaçamento entre linhas */
+}
